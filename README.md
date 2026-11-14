@@ -14,5 +14,6 @@
 
 ## Download
 
-- **Android**: download the `arm64-v8a` APK (for almost all modern phones) or `armeabi-v7a` (for 32-bit phones). Open the file and allow installation from unknown sources.
-- **Windows 10/11**: download the `windows-x64` ZIP file. Extract it to a folder where you have write permissions and launch `Musex.exe`.
+- **Android**: Download the arm64-v8a APK (compatible with most modern smartphones). The armeabi-v7a version is intended for older devices. If neither version works, install the universal APK.
+
+- **Windows**: Download the ZIP file, extract its contents, and double-click musex.exe to launch the application.
